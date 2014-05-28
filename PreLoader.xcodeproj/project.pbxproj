@@ -21,7 +21,6 @@
 		F600B64A1935CEE400CD8F8A /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = F600B62C1935CEE300CD8F8A /* UIKit.framework */; };
 		F600B6521935CEE400CD8F8A /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = F600B6501935CEE400CD8F8A /* InfoPlist.strings */; };
 		F600B6541935CEE400CD8F8A /* PreLoaderTests.m in Sources */ = {isa = PBXBuildFile; fileRef = F600B6531935CEE400CD8F8A /* PreLoaderTests.m */; };
-		F600B65E1935D49E00CD8F8A /* indicator80.png in Resources */ = {isa = PBXBuildFile; fileRef = F600B65D1935D49E00CD8F8A /* indicator80.png */; };
 		F600B6601935D4B800CD8F8A /* indicator40.png in Resources */ = {isa = PBXBuildFile; fileRef = F600B65F1935D4B800CD8F8A /* indicator40.png */; };
 /* End PBXBuildFile section */
 
@@ -55,7 +54,6 @@
 		F600B64F1935CEE400CD8F8A /* PreLoaderTests-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "PreLoaderTests-Info.plist"; sourceTree = "<group>"; };
 		F600B6511935CEE400CD8F8A /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
 		F600B6531935CEE400CD8F8A /* PreLoaderTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = PreLoaderTests.m; sourceTree = "<group>"; };
-		F600B65D1935D49E00CD8F8A /* indicator80.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = indicator80.png; sourceTree = "<group>"; };
 		F600B65F1935D4B800CD8F8A /* indicator40.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = indicator40.png; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -117,7 +115,6 @@
 			isa = PBXGroup;
 			children = (
 				F600B65F1935D4B800CD8F8A /* indicator40.png */,
-				F600B65D1935D49E00CD8F8A /* indicator80.png */,
 				F600B6371935CEE300CD8F8A /* SAAppDelegate.h */,
 				F600B6381935CEE300CD8F8A /* SAAppDelegate.m */,
 				F600B63A1935CEE300CD8F8A /* Main.storyboard */,
@@ -239,7 +236,6 @@
 				F600B6411935CEE300CD8F8A /* Images.xcassets in Resources */,
 				F600B6331935CEE300CD8F8A /* InfoPlist.strings in Resources */,
 				F600B63C1935CEE300CD8F8A /* Main.storyboard in Resources */,
-				F600B65E1935D49E00CD8F8A /* indicator80.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -467,6 +463,7 @@
 				F600B6591935CEE400CD8F8A /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		F600B65A1935CEE400CD8F8A /* Build configuration list for PBXNativeTarget "PreLoaderTests" */ = {
 			isa = XCConfigurationList;
@@ -475,6 +472,7 @@
 				F600B65C1935CEE400CD8F8A /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};

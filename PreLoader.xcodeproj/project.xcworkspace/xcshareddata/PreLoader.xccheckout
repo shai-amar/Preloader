@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>BC4DBC49-B63E-49F2-A24F-8C4B4D762E98</string>
+	<key>IDESourceControlProjectName</key>
+	<string>PreLoader</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>62EE428D-7CB0-4077-979F-AF654EDD411A</key>
+		<string>https://github.com/shai-amar/Preloader.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>PreLoader.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>62EE428D-7CB0-4077-979F-AF654EDD411A</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/shai-amar/Preloader.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>62EE428D-7CB0-4077-979F-AF654EDD411A</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>62EE428D-7CB0-4077-979F-AF654EDD411A</string>
+			<key>IDESourceControlWCCName</key>
+			<string>Preloader</string>
+		</dict>
+	</array>
+</dict>
+</plist>
