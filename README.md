@@ -6,11 +6,18 @@ A preloader example iOS 7 style with start/stop functionality
 Required files
 ==============
 
-The files where all the functionality
+SAViewController uses SAPreLoader 
 
 SAViewController.h
 
 SAViewController.m
+
+The files that contain the preloader functionality
+
+SAPreLoader.h
+
+SAPreLoader.m
+
 
 The storyboard where all the views are
 

@@ -22,6 +22,7 @@
 		F600B6521935CEE400CD8F8A /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = F600B6501935CEE400CD8F8A /* InfoPlist.strings */; };
 		F600B6541935CEE400CD8F8A /* PreLoaderTests.m in Sources */ = {isa = PBXBuildFile; fileRef = F600B6531935CEE400CD8F8A /* PreLoaderTests.m */; };
 		F600B6601935D4B800CD8F8A /* indicator40.png in Resources */ = {isa = PBXBuildFile; fileRef = F600B65F1935D4B800CD8F8A /* indicator40.png */; };
+		F600B6631935E1D100CD8F8A /* SAPreLoader.m in Sources */ = {isa = PBXBuildFile; fileRef = F600B6621935E1D100CD8F8A /* SAPreLoader.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -55,6 +56,8 @@
 		F600B6511935CEE400CD8F8A /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
 		F600B6531935CEE400CD8F8A /* PreLoaderTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = PreLoaderTests.m; sourceTree = "<group>"; };
 		F600B65F1935D4B800CD8F8A /* indicator40.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = indicator40.png; sourceTree = "<group>"; };
+		F600B6611935E1D100CD8F8A /* SAPreLoader.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SAPreLoader.h; sourceTree = "<group>"; };
+		F600B6621935E1D100CD8F8A /* SAPreLoader.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SAPreLoader.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -120,6 +123,8 @@
 				F600B63A1935CEE300CD8F8A /* Main.storyboard */,
 				F600B63D1935CEE300CD8F8A /* SAViewController.h */,
 				F600B63E1935CEE300CD8F8A /* SAViewController.m */,
+				F600B6611935E1D100CD8F8A /* SAPreLoader.h */,
+				F600B6621935E1D100CD8F8A /* SAPreLoader.m */,
 				F600B6401935CEE300CD8F8A /* Images.xcassets */,
 				F600B62F1935CEE300CD8F8A /* Supporting Files */,
 			);
@@ -256,6 +261,7 @@
 			files = (
 				F600B6391935CEE300CD8F8A /* SAAppDelegate.m in Sources */,
 				F600B63F1935CEE300CD8F8A /* SAViewController.m in Sources */,
+				F600B6631935E1D100CD8F8A /* SAPreLoader.m in Sources */,
 				F600B6351935CEE300CD8F8A /* main.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
