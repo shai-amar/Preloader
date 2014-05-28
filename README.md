@@ -20,6 +20,7 @@ The indicator image file
 
 indicator40.png
 
-https://github.com/shai-amar/Preloader/blob/master/screenshot1.png
+An example how the preloader looks like
+=======================================
 ![screenshot 1](https://github.com/shai-amar/Preloader/blob/master/screenshot1.png?raw=true)
 
